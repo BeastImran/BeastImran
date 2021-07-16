@@ -2,7 +2,7 @@
   <a href="https://github.com/BeastImran/"><img width="550" src="https://readme-typing-svg.herokuapp.com?font=Galindo&color=F76312&center=true&lines=Welcome+%E2%9D%A4%EF%B8%8F%2C+I'm+Shaik+Imran;Self+taught+programmer;Always+learning+new+technologies;and+frameworks."></a>
 </p>
 
-<a href="http://beastimran.com/"><img alt="Beast Imran's GitHub Banner" title="beastimran.com" src="./banner.jpg" width="1000" height="500"/></a>
+<a href="http://beastimran.com/"><img alt="Beast Imran's GitHub Banner" title="beastimran.com" src="./banner.jpg"/></a>
 
 ## Connect with me 🙋🏻‍♂️
 
