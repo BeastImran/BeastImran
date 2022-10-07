@@ -19,7 +19,9 @@
   <a href="https://www.quora.com/profile/BeastImran/"><img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/></a>
 </p>
 
-## Favourites ♥
+<br>
+
+## Favourites &amp; Skills♥
 
 #### Programming Languages 👨‍💻
 <p align="left">
@@ -110,6 +112,8 @@
    <img alt="Coursera" src="https://img.shields.io/badge/Coursera-1978F0.svg?style=for-the-badge&logo=Coursera&logoColor=white"/>
 </p>
 
+<br>
+
 ## Repos
 
 <p align="left">
@@ -120,6 +124,8 @@
   <a href="https://github.com/beastimran/libgenparser"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=beastimran&repo=libgenparser&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=true" alt="libgenparser"></a>
   <a href="https://github.com/beastimran/chapter-embedding"><img width="320" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beastimran&repo=chapter-embedding&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_icons=true" alt="chapter-embedding"></a>
 </p>
+
+<br>
 
 ## Stats
 
