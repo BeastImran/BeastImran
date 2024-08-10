@@ -15,7 +15,6 @@
   <a href="https://www.reddit.com/user/beastimran"><img alt="Reddit" title="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/beastimran"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   <a href="https://twitter.com/realbeastimran"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="http://beastimran.com/"><img alt="Personal Website" title="Personal Website" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge">
   <a href="https://www.quora.com/profile/BeastImran/"><img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/></a>
 </p>
 
@@ -81,6 +80,7 @@
 <p align="left">
    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic">
    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=plastic">
+   <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white&style=plastic">
    <img alt="Git" src="https://img.shields.io/badge/Git-F14E32.svg?logo=git&logoColor=white">
    <img alt="Google Search Console Badge" src="https://img.shields.io/badge/Google%20Search%20Console-458CF5?logo=googlesearchconsole&logoColor=fff&style=plastic">
    <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white">
