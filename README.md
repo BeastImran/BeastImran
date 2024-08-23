@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="http://beastimran.com/"><img alt="Beast Imran's GitHub Banner" title="beastimran.com" src="./better me.png"/></a>
+  <a href="http://beastimran.com/"><img alt="Beast Imran's GitHub Banner" title="beastimran.com" src="./Profile pic circle.png"/></a>
 </p>
 
 ## Connect with me 🙋🏻‍♂️
